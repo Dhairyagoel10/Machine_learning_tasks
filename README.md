@@ -1,1 +1,1 @@
-# Machine_learning_tasks
+# SkillCraft Technology Machine Learning Internship
